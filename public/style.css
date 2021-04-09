@@ -1,0 +1,100 @@
+#wrapper{
+	width: 1170px;
+	height: auto;
+	margin: 36.78px auto;
+	border: 2px dashed #dcc2c2;
+}
+#row-1{
+	width: 1110px;
+	height: 1500px;
+	margin: 25px auto;
+}
+#info{
+	font-size: 16.5px;
+	color: white;
+	width: 36%;
+	height: 1500px;
+	float: left;
+	background-color: #5a5ad2;
+}
+#skill{
+	float: right;
+	width: 64%;
+	height: 1500px;
+	background: #beccbf;
+	font-size: 16.5px;
+	color: #080808;
+}
+#thumbnail{
+	width: 150px;
+	height: 163px;
+	margin: 30px auto 5px;
+}
+img{
+	width: 150px;
+}
+h1{
+	font-size: 20px;
+	text-align: center;
+	font-weight: 500;
+	line-height: 30px;
+}
+h3{
+	font-size: 16px;
+	text-align: center;
+	line-height: 25px;
+}
+#avatar{
+	margin: 0px auto;
+	width: 265px;
+	height: 238px;
+	border-bottom: 1.5px dashed #c19090;
+}
+.left{margin-top: 50px;}
+.title{
+	font-size: 20px;
+}
+.title > i{margin-right: 8px;}
+span{
+	margin-top: 15px;
+	display: block;
+}
+span  > i{margin-right: 8px;}
+.info-inner{
+	width: 70%;
+	margin: 0px auto;
+}
+.skill-inner{
+
+	width: 85%;
+	margin: 35px auto;
+}
+.detail-skill{
+	margin: 20px;
+}
+.detail-ex{
+	margin: 20px 40px;
+}
+p{
+	line-height: 25px;
+}
+#row-2{
+	width: 1110px;
+	height: 725px;
+	margin: 40px auto;
+	background-color: #e2e0e0;
+}
+#title-row-2{
+	padding: 25px;
+	color: #040404;
+}
+#detail-row-2{
+	width: 90%;
+	margin: 0px auto;
+	font-size: 16.5px;
+	color: #333;
+}
+#detail-row-2 p{
+	line-height: 27.5px;
+	padding-bottom: 16px;
+}
